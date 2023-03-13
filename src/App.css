@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.img{
+  height: 623px;
+
+}
+
+#text{
+  margin: 20px;
+  color: darkcyan;
+}
+
+#form{
+  height: 100vh;
+  width: 100vw;
+  color: salmon;
+  font-weight: bold;
+  /* background-repeat:; */
+  background-image: url("https://images.unsplash.com/photo-1677773755572-06dbee8256b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1960&q=80");
+}
